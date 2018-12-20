@@ -1,0 +1,20 @@
+{
+  "name": "personal-blog",
+  "version": "1.0.0",
+  "description": "简单开始学习的个人博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angeliavale/personal-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angeliavale/personal-blog/issues"
+  },
+  "homepage": "https://github.com/Angeliavale/personal-blog#readme"
+}
